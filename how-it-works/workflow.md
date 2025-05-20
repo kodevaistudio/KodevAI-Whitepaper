@@ -1,8 +1,8 @@
-# 🔁 Prompt. Vibe. Deploy. — How KodevAI Works
+# Prompt. Vibe. Deploy. — How KodevAI Works
 
 KodevAI revolutionizes app/dApp development by turning simple prompts into deployable products. Here's the streamlined workflow that powers the magic:
 
----
+***
 
 ## 🧠 Step 1: Describe Your Idea
 
@@ -10,7 +10,7 @@ Kickstart your journey by chatting with Agent KodevAI. Just describe your concep
 
 > Example: "Build a crowdfunding dApp where users can raise BNB for creative projects."
 
----
+***
 
 ## ✨ Step 2: Vibe Code in Action
 
@@ -23,7 +23,7 @@ KodevAI’s Vibe Coding Agent understands your idea and generates a full-stack c
 
 All code is clean, modular, and maintainable.
 
----
+***
 
 ## 🧪 Step 3: Preview & Refine
 
@@ -35,7 +35,7 @@ See your app in action instantly:
 
 Every change updates your codebase in real time.
 
----
+***
 
 ## 🚀 Step 4: Deploy On-Chain or Web
 
@@ -48,19 +48,19 @@ With a single click, you can:
 
 Everything is production-ready and Web3-native.
 
----
+***
 
 ## 🔐 Step 5: Token-Gated Access
 
-Your access is determined by your \$KODEV token holdings:
+Your access is determined by your $KODEV token holdings:
 
-* Free: < 90,000 \$KODEV
+* Free: < 90,000 $KODEV
 * Builder: ≥ 90,000
 * Creator: ≥ 500,000
 * Innovator: ≥ 1,500,000
 
 No monthly subscription. Just hold or stake to unlock features.
 
----
+***
 
 KodevAI brings the future of software development to your fingertips — all you need is your idea, your tokens, and the vibe to build.

@@ -1,4 +1,4 @@
-# 🧪 Preview & Refine
+# Preview & Refine
 
 KodevAI lets you iterate like a pro. After the initial build, you can instantly preview your live app or dApp, make changes via prompt, and refine until it's perfect — all with version control built in.
 

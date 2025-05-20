@@ -1,4 +1,4 @@
-# 📬 Support
+# Support
 
 KodevAI is committed to providing a reliable and responsive support system for all users, builders, and token holders.
 
@@ -27,13 +27,13 @@ Link: [discord.gg/kodevai](https://discord.gg/kodevai)
 
 Still need help? We’re here for you:
 
-* Email us at: **[care@kodevai.studio](mailto:care@kodevai.studio)**
+* Email us at: [**care@kodevai.studio**](mailto:care@kodevai.studio)
 * Response time: 24–48 hours on business days
 
 ## 🛡️ Safety Reminder
 
 KodevAI team members will **never DM you first**, ask for your seed phrase, or request funds. Be cautious and report suspicious activity in the Discord server.
 
----
+***
 
 We're building together. Whether you're stuck, confused, or curious — reach out. The KodevAI team is here to help.

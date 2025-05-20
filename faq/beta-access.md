@@ -1,4 +1,4 @@
-# 🧪 Beta Access
+# Beta Access
 
 KodevAI is currently in its **beta phase**, allowing early users to explore the core features, test its AI coding workflow, and provide feedback that shapes the final release.
 
@@ -8,10 +8,10 @@ Anyone holding at least **90,000 $KODEV tokens** (Builder Tier or above) is elig
 
 ### 💼 Beta Access Benefits
 
-- ✅ Early access to the Vibe Coding Agent
-- ✅ Ability to build full apps and dApps
-- ✅ Feedback submission with upvote-based rewards
-- ✅ Direct access to the dev team via Discord Beta Club
+* ✅ Early access to the Vibe Coding Agent
+* ✅ Ability to build full apps and dApps
+* ✅ Feedback submission with upvote-based rewards
+* ✅ Direct access to the dev team via Discord Beta Club
 
 ## 🧭 How to Get Started
 
@@ -22,14 +22,14 @@ Anyone holding at least **90,000 $KODEV tokens** (Builder Tier or above) is elig
 
 ## 🧩 What’s Included in Beta?
 
-- Prompt-to-app generation
-- Component previews and refinements
-- GitHub push, on-chain deployment (Polygon, BSC testnet)
-- Prompt marketplace (read-only mode)
-- Early-stage Supabase integration
+* Prompt-to-app generation
+* Component previews and refinements
+* GitHub push, on-chain deployment (Polygon, BSC testnet)
+* Prompt marketplace (read-only mode)
+* Early-stage Supabase integration
 
 > ⚠️ Note: Some advanced features are still under testing and may not be fully stable. Use with caution.
 
 ## 💬 Support
 
-For beta issues, contact us at **[care@kodevai.studio](mailto:care@kodevai.studio)** or reach out via Discord.
+For beta issues, contact us at [**care@kodevai.studio**](mailto:care@kodevai.studio) or reach out via Discord.

@@ -1,4 +1,4 @@
-# 🛠️ GitHub Integration
+# GitHub Integration
 
 KodevAI empowers developers and non-developers alike by offering seamless GitHub integration. With just a single click, users can export their full app/dApp codebase directly to their GitHub repository, making it easier to collaborate, manage, and version control their project code.
 

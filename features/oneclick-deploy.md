@@ -1,4 +1,4 @@
-# 🚀 One-Click Deployment
+# One-Click Deployment
 
 KodevAI simplifies app launches with instant deployment options to leading platforms like Netlify and Vercel.
 

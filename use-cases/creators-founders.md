@@ -1,4 +1,4 @@
-# 👨‍🎨 Creators & Founders
+# Creators & Founders
 
 KodevAI is a game-changer for solo builders, indie hackers, and visionary founders. Whether you're validating an idea or launching a full-stack product, the platform equips you with the tools to build, test, and ship without a dev team.
 

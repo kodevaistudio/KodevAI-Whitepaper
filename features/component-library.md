@@ -1,4 +1,4 @@
-# 🧱 Component Library (coming soon)
+# Component Library (coming soon)
 
 KodevAI will include a growing library of AI-generated, production-ready UI components and Web3 modules — all optimized for composability and rapid development.
 

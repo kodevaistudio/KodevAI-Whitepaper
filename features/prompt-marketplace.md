@@ -1,11 +1,10 @@
-
-# 🛒 Prompt Marketplace
+# Prompt Marketplace
 
 KodevAI introduces a creator-driven Prompt Marketplace, where users can share, monetize, and discover the best prompts for building apps and dApps. It’s a decentralized hub for creativity, knowledge, and community-powered innovation.
 
 ## Key Highlights
 
-* **Monetize Your Prompts**: List your custom prompts and earn \$KODEV tokens when others use them.
+* **Monetize Your Prompts**: List your custom prompts and earn $KODEV tokens when others use them.
 * **Discover Top Prompts**: Search, filter, and explore the most effective prompts rated by the community.
 * **Creator Profiles**: Showcase your best work and build your on-chain reputation as a top prompt engineer.
 * **Community Voting**: Let the best prompts rise through community upvotes and usage metrics.

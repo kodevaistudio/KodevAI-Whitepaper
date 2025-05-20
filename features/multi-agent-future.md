@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent Future
+# Multi-Agent Future
 
 KodevAI isn't just one agent — it's the beginning of an entire ecosystem of collaborative AI agents.
 

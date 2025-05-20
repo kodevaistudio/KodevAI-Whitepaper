@@ -1,19 +1,16 @@
-# 💬 Prompt-Based UI
+# Prompt-Based UI
 
 KodevAI makes app and dApp building as simple as having a conversation. Its intuitive, chat-first interface eliminates the need for traditional no-code interfaces or complex dev environments.
 
 ## Key Capabilities
 
-* **Conversational Input**
+* **Conversational Input**\
   Describe your project or feature in natural language. No need to worry about technical syntax.
-
-* **Real-Time Feedback**
+* **Real-Time Feedback**\
   The interface provides intelligent suggestions and live feedback to refine your prompts and outputs.
-
-* **Persistent Context**
+* **Persistent Context**\
   KodevAI retains project context across sessions, so you can build iteratively without starting over.
-
-* **Multi-Turn Prompting**
+* **Multi-Turn Prompting**\
   Ask follow-ups, make adjustments, or switch features mid-conversation — KodevAI adapts fluidly.
 
 ## Why It Matters

@@ -1,4 +1,4 @@
-# 🧬 Supabase DB Connector
+# Supabase DB Connector
 
 Effortlessly integrate a scalable, cloud-hosted Postgres database with your application using our built-in Supabase DB Connector. No manual setup or configurations—KodevAI handles it all.
 

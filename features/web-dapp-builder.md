@@ -1,4 +1,4 @@
-# 🌐 Web + dApp Builder
+# Web + dApp Builder
 
 KodevAI isn't just for web apps — it's a unified builder that lets you create full-stack **web2 and web3 applications** in one seamless flow. From frontend UI to backend logic and smart contract generation, everything happens in a single prompt-to-deploy pipeline.
 

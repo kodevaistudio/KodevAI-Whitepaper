@@ -1,4 +1,4 @@
-# 🚀 On-Chain Deploy
+# On-Chain Deploy
 
 KodevAI simplifies blockchain deployment like never before. With just one click, you can push your smart contract-based dApp or app live on the BNB Chain, whether you're deploying to testnet for development or mainnet for real usage.
 

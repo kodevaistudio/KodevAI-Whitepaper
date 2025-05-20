@@ -1,4 +1,4 @@
-# 🚀 Introduction
+# Introduction
 
 KodevAI is pioneering a new frontier in software development — a full-stack app/dApp builder that replaces traditional coding with pure prompt power. No more hiring dev teams, dragging blocks, or wrestling with configs. Just describe your idea, and KodevAI brings it to life.
 

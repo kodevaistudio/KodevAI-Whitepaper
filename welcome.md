@@ -1,4 +1,23 @@
-# 👋 Welcome to the KodevAI Whitepaper
+---
+cover: .gitbook/assets/cover01.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Welcome to the KodevAI Whitepaper
 
 Welcome to the official whitepaper of **KodevAI** — the first full-stack no-code app/dApp builder on BNB Chain powered entirely by AI agents and Web3 incentives.
 
