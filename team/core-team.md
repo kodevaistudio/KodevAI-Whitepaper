@@ -1,74 +1,99 @@
-# Core Team
+# 👥 Core Team
 
-KodevAI is built by a passionate team of builders, dreamers, and technologists committed to reimagining how software is created in the age of AI and decentralization.
+KodevAI is crafted by a global crew of builders, dreamers, and technologists reimagining how software is created in the age of AI and decentralization.
 
-***
+---
 
 ## 🚀 Who We Are
 
-We are a cross-functional group of:
+We are a cross-functional collective of:
 
-* **AI Engineers** — Experts in large language models, prompt engineering, and agent architecture.
-* **Web3 Developers** — Focused on seamless on-chain deployments, smart contracts, and token utility.
-* **No-Code Pioneers** — With deep insights into simplifying development for creators and non-engineers.
-* **Design Thinkers** — Dedicated to human-centric interfaces, intuitive UX, and beautiful product design.
-* **Growth Strategists** — Skilled in community building, product-led growth, and ecosystem expansion.
+* **AI Engineers** — Specialists in LLMs, prompt design, and agentic workflows
+* **Web3 Developers** — Fluent in smart contracts, token mechanics, and decentralized infrastructure
+* **No-Code Innovators** — Making technical creation accessible through language-first interfaces
+* **Design Thinkers** — Focused on seamless, intuitive UX and beautiful tools
+* **Growth Strategists** — Driving ecosystem adoption through community, quests, and storytelling
 
-***
+---
 
-## 🧠 Founding Beliefs
+## 🧬 Founding Beliefs
 
-* **Prompting is Programming** — We believe natural language should be the new programming interface.
-* **Open Development** — Builders should own what they create, on and off chain.
-* **Decentralized Access** — Tools shouldn’t be locked behind paywalls. Token-based access aligns incentives.
-* **Community-Driven Innovation** — The best products are shaped by their users, not just their founders.
+* **Prompting is Programming** — Natural language is the new dev environment
+* **Builders Should Own Their Stack** — Self-hostable, token-gated, on-chain whenever possible
+* **No Locked Doors** — Token-based access, not paywalls
+* **Community Drives Product** — Our roadmap is shaped by users, not just founders
 
-***
+---
 
-## 📍 Core Contributors
+## 🧹 Meet the Core Contributors
 
-> _Individual names will be updated upon public team reveal._
+### 🔮 **Tey Noir**
 
-### 🔧 Roles & Responsibilities
+**Founder & CEO** | [`@TeyNoirX`](https://twitter.com/TeyNoirX)
+Visionary. Minimalist. Focused on UX, builder workflows, and the long arc of product design in Web3.
 
-| Role                      | Responsibility                                   |
-| ------------------------- | ------------------------------------------------ |
-| **Founder & CEO**         | Vision, product leadership, strategic direction  |
-| **CTO & Lead Engineer**   | Architecture, AI systems, scalability            |
-| **Head of Product**       | UX, builder workflows, feature roadmap           |
-| **Web3 Lead**             | Smart contracts, token utility, on-chain logic   |
-| **Community Lead**        | Campaigns, quests, ambassador programs           |
-| **Growth & Partnerships** | Ecosystem growth, dApp directories, integrations |
-| **Frontend Devs**         | Builder UI, preview system, deployment flows     |
-| **AI Researchers**        | Prompting, agent logic, fine-tuning              |
+> "We're not building an app. We're building a movement of builders."
 
-***
+---
 
-## 🌐 Global, Remote-First
+### 🛠️ **Silas Loop**
 
-Our decentralized team operates across time zones, working from cities such as:
+**CTO & Lead Engineer** | [`@_0xEngineer`](https://twitter.com/_0xEngineer)
+Infra-mind. AI systems architect. Obsessive about performance, agents, and dev ergonomics.
 
-* **Bangalore** 🇮🇳
-* **Berlin** 🇩🇪
-* **Singapore** 🇸🇬
-* **San Francisco** 🇺🇸
-* **Dubai** 🇦🇪
+> "Infra should feel invisible. Magic, if you're doing it right."
 
-***
+---
 
-## 🔓 Want to Contribute?
+### 🌱 **Ezzy**
 
-We welcome contributors from across the builder ecosystem:
+**Community Lead** | [`@_EzzyVibes`](https://twitter.com/_EzzyVibes)
+Bridge between builders and believers. Meme engine. Energizer of vibes, quests, and community love.
 
-* Open source contributors
-* Prompt engineers
-* Web3 hackers
-* Technical writers
-* Community leaders
+> "Web3 without community is just code."
 
-📧 **Email**: [care@kodevai.studio](mailto:care@kodevai.studio)\
-💬 **Discord**: Join us to get started.
+---
 
-***
+## 🔧 Other Core Roles
 
-Together, we’re building the future of software — one prompt at a time.
+| Role                   | Responsibility                                       |
+| ---------------------- | ---------------------------------------------------- |
+| **Head of Product**    | UX, builder flows, roadmap alignment                 |
+| **Web3 Lead**          | Token logic, contract deployments, L2 support        |
+| **Frontend Engineers** | No-code canvas, live preview, multi-agent UI         |
+| **AI Research Team**   | Prompt frameworks, tool orchestration, memory tuning |
+| **Growth & Ecosystem** | Partnerships, listings, Zealy, early access loops    |
+
+---
+
+## 🌐 Remote, Global, Always-On
+
+KodevAI is built across time zones — async-first, community-driven, and open to all.
+
+📍 Operating from:
+
+* Toronto 🇨🇦
+* Seattle 🇺🇸
+* Bangalore 🇮🇳
+* Berlin 🇩🇪
+* Singapore 🇸🇬
+* Dubai 🇦🇪
+
+---
+
+## 🤝 Contribute to the Future
+
+We’re looking for aligned contributors who believe in:
+
+* Prompt engineering as software architecture
+* Ownership-based access models
+* Building in public with real users
+
+👾 **Join the Movement**
+→ [care@kodevai.studio](mailto:care@kodevai.studio)
+→ Discord coming soon
+→ Collab quests, Zealy campaigns, and grants available soon
+
+---
+
+**KodevAI** — *Build like a dev. Without writing a line of code.*
