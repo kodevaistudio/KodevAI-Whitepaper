@@ -1,3 +1,5 @@
+# future-goals
+
 📈 Future Goals
 
 KodevAI’s long-term trajectory is guided by a commitment to innovation, scalability, and community empowerment. As we grow, we aim to evolve from a powerful AI agent into a complete decentralized development ecosystem.
@@ -40,20 +42,18 @@ Launch a community-driven learning platform for teaching AI development workflow
 
 ⸻
 
-🧪 Experimental R&D
+🧪 Experimental R\&D
 
-We’re committed to staying on the frontier. Expect experiments in areas like:
-	•	On-chain AI agents
-	•	zk-based identity verification
-	•	Decentralized file storage integration (IPFS/Arweave)
-	•	Autonomous dApp deployments using blockchain triggers
+We’re committed to staying on the frontier. Expect experiments in areas like:\
+• On-chain AI agents\
+• zk-based identity verification\
+• Decentralized file storage integration (IPFS/Arweave)\
+• Autonomous dApp deployments using blockchain triggers
 
 ⸻
 
-Together with our community, we’re building not just a tool — but a movement.
+Together with our community, we’re building not just a tool — but a movement.\
 KodevAI is here to democratize development, supercharge creativity, and redefine what it means to build in Web3.
-
-
 
 🌌 Future Goals
 
@@ -63,37 +63,37 @@ At KodevAI, we think long-term. Our future goals are designed not only to elevat
 
 🧠 AI-Native Operating System for Builders
 
-Imagine an AI-native IDE that understands your intent, evolves with your style, and proactively helps you solve development problems in real time — from MVP to production.
-	•	Build conversationally with your own AI agent.
-	•	Learn from your past patterns and generate personalized suggestions.
-	•	Enable continuous project evolution without starting from scratch.
+Imagine an AI-native IDE that understands your intent, evolves with your style, and proactively helps you solve development problems in real time — from MVP to production.\
+• Build conversationally with your own AI agent.\
+• Learn from your past patterns and generate personalized suggestions.\
+• Enable continuous project evolution without starting from scratch.
 
 ⸻
 
 🧱 Decentralized Component Ecosystem
 
-We envision an open marketplace where builders can publish, fork, remix, and trade UI components, smart contract modules, data sources, and more.
-	•	Community-governed component curation and upvoting.
-	•	Token-incentivized contributions and bounties.
-	•	On-chain reputation system for creators.
+We envision an open marketplace where builders can publish, fork, remix, and trade UI components, smart contract modules, data sources, and more.\
+• Community-governed component curation and upvoting.\
+• Token-incentivized contributions and bounties.\
+• On-chain reputation system for creators.
 
 ⸻
 
 🌍 Onboarding the Next 1M Developers
 
-KodevAI is more than a tool — it’s a movement to democratize app and dApp creation. Our future plans include:
-	•	Global builder fellowships and hackathons.
-	•	Localization and multilingual AI agent support.
-	•	Builder scholarships in partnership with DAOs and educational orgs.
+KodevAI is more than a tool — it’s a movement to democratize app and dApp creation. Our future plans include:\
+• Global builder fellowships and hackathons.\
+• Localization and multilingual AI agent support.\
+• Builder scholarships in partnership with DAOs and educational orgs.
 
 ⸻
 
 🏛 Transition to Full DAO Governance
 
-We aim to transition KodevAI into a self-sustaining, community-owned network governed by its stakeholders.
-	•	Voting rights for token holders.
-	•	Treasury management through on-chain proposals.
-	•	DAO-operated grant and bounty systems.
+We aim to transition KodevAI into a self-sustaining, community-owned network governed by its stakeholders.\
+• Voting rights for token holders.\
+• Treasury management through on-chain proposals.\
+• DAO-operated grant and bounty systems.
 
 ⸻
 
@@ -103,5 +103,5 @@ Merge real-time blockchain telemetry with AI-driven DevOps for autonomous perfor
 
 ⸻
 
-The journey ahead is vast — and we’re building it one block, one idea, one creator at a time.
+The journey ahead is vast — and we’re building it one block, one idea, one creator at a time.\
 Together, we’re coding the future.

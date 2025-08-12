@@ -32,7 +32,7 @@ KodevAI’s journey reflects a product-first, community-driven approach to build
 
 ***
 
-## 🚀 June 2025 — Token Launch & Public Rollout
+## 🚀 August 2025 — Token Launch & Public Rollout
 
 * Public sale of $KODEV token goes live
 * KODEV token utility unlocked across:

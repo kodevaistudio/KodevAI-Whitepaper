@@ -1,7 +1,6 @@
 # Table of contents
 
-* [README](README.md)
-* [Welcome to the KodevAI Whitepaper](welcome.md)
+* [Welcome to the KodevAI Whitepaper](README.md)
 * [Introduction](introduction.md)
 * [overview](overview/README.md)
   * [what-is-kodevai](overview/what-is-kodevai.md)
